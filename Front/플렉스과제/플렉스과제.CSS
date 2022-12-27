@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+ 
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+
+ html {
+    font-size: 10px;
+    font-family:'Sevillana', cursive;
+ }
+
+ nav {
+    background-color: #e69a06;
+ }
+
+ .nav-title {
+    padding: 1rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;  
+ }
+
+ .nav-contact {
+    border: 0;
+    background-color: none;
+    cursor: pointer;
+    font-family: inherit;
+ }
+
+ /* 다시해보기 */

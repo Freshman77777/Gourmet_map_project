@@ -1,0 +1,25 @@
+h3 {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+
+[href="htttps://www.google.com"] {
+    background-color:lightcoral
+}
+
+
+[href="htttps://www.naver.com"] {
+    background-color: forestgreen;
+}
+
+p:hover {
+    background-color: cyan;
+}
